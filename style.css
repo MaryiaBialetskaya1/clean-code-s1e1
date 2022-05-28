@@ -23,7 +23,7 @@
   .container-header { 
     text-align: center;
   }
-  
+
 }
 .main {
   padding-top: 12px;
@@ -47,14 +47,14 @@
   flex-grow: 1;
 }
 .list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .list-items {
-  list-style:none;
+  list-style: none;
 }
 .input, .button, .checkbox{
-  outline:none;
+  outline: none;
 }
 .button {
   background: none;
@@ -129,16 +129,16 @@
 
 /* Edit Task */
 .input-list {
-  display:none
+  display: none
 }
 
 .edit-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task-edit {
-  display:none;
+  display: none;
 }
 .completed-task {
   text-decoration: line-through;

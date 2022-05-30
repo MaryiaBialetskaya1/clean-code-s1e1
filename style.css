@@ -135,14 +135,14 @@
   display: none;
 }
 
-.edit-input {
+.input_edit {
   display: inline-block;
   width: 224px;
 }
-.task-edit {
+.task_edit {
   display: none;
 }
-.task-completed {
+.task_completed {
   text-decoration: line-through;
   color: #888;
 }
